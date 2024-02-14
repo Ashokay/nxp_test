@@ -11,4 +11,4 @@ COPY . /app
 WORKDIR /app
 
 # Build project command
-RUN cd /app/eg_m7_0/Debug_FLASH && make
+RUN cd /app/eg_M7_0/Debug_FLASH && make
